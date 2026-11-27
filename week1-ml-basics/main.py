@@ -1,4 +1,4 @@
-"Week 1 ML Basics: house-price prediction with simple linear regression.
+"""Week 1 ML Basics: house-price prediction with simple linear regression.
 
 Run from this folder with: python main.py
 The included housing dataset is synthetic and for educational practice only.
